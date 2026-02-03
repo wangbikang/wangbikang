@@ -1,4 +1,4 @@
-https://visitor-badge.laobi.icu/badge?page_id=wangbikang.wangbikang
+![Visitor Badge] (https://visitor-badge.laobi.icu/badge?page_id=wangbikang.wangbikang)
 
 👋 Hi, I’m wangbikang
 
