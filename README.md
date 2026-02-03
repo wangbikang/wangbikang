@@ -1,3 +1,5 @@
+https://visitor-badge.laobi.icu/badge?page_id=wangbikang.wangbikang
+
 👋 Hi, I’m wangbikang
 
 I’m a graduate student at the School of Atmospheric Sciences, Sun Yat-sen University, focusing on atmospheric and Earth observation data analysis.
